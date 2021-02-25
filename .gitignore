@@ -17,7 +17,7 @@ Icon
 
 *~
 ./node_modules
-
+./package-lock.json
 
 ############################
 # Windows
@@ -113,3 +113,4 @@ exports
 *.cache
 build
 .strapi-updater.json
+package-lock.json
